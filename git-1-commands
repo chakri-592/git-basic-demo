@@ -1,0 +1,16 @@
+git init( ls -la it creat the git resportiry and it is tarcked by git)
+(it create ".git"-->contains-->HEAD,,config,hooks,objects,refs)
+
+git status( we can came to tracked or untracked files)
+
+git diff(tell you what changes are made in file)
+
+git add (file_name)
+
+git commit -m "this is my 1st version of addition"
+
+git log(show the commit that are done till now)
+
+git reset --hard (commit_id-->got form the git log)
+
+git push
